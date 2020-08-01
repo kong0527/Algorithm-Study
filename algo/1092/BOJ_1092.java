@@ -10,7 +10,24 @@ public class BOJ_1092 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		// TODO Auto-generated method stub
 		
-		Scanner input = new Scanner(System.in);
+        		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int num = Integer.parseInt(br.readLine());
+        		Integer cranes[] = new Integer[num];
+        		StringTokenizer st = new StringTokenizer(br.readLine());
+        
+       		for (int i = 0; i < cranes.length; i++) {
+        			cranes[i] = Integer.parseInt(st.nextToken());
+        		}
+        
+        		num = Integer.parseInt(br.readLine());
+        		Integer boxes[] = new Integer[num];
+        		st = new StringTokenizer(br.readLine());
+        
+        		for (int i = 0; i < boxes.length; i++) {
+        			boxes[i] = Integer.parseInt(st.nextToken());
+       		}
+		
+		/*Scanner input = new Scanner(System.in);
 		int num = input.nextInt();
 		Integer cranes[] = new Integer[num];
 		for (int i = 0; i < cranes.length; i++) {
@@ -20,7 +37,7 @@ public class BOJ_1092 {
 		Integer boxes[] = new Integer[num];
 		for (int i = 0; i < boxes.length; i++) {
 			boxes[i] = input.nextInt();
-		}
+		}*/
 		
 		System.out.println(solve(cranes, boxes));
 	}
