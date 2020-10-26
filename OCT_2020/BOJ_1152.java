@@ -7,7 +7,7 @@ public class BOJ_1152 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String st = br.readLine();
-		if (st.isEmpty()) {
+		if (st.trim().isEmpty()) {
 			System.out.println(0);
 		}
 		else {
