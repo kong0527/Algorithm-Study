@@ -25,48 +25,4 @@ public class BOJ_2563 {
 		System.out.println(count);
 	}
 }
-	
-/*	public static int solve (int[][] arr, int num) {
-		int width[] = new int[num];
-		int height[] = new int[num];
-		
-		for (int i = 0; i < num; i++) {
-			width[i] = arr[i][0];
-		}
-		
-		for (int i = 0; i < num; i++) {
-			height[i] = arr[i][1];
-		}
-		
-		Arrays.sort(width);
-		Arrays.sort(height);
-		
-		int totalWidth = (width[num-1] + 10 - width[0]) * (height[num-1] + 10 - height[0]);
-		for (int i = 0; i < num; i++) {
-			for (int j = 0; j < num; j++) {
-				if (i == j) {
-					continue;
-				}
-				if (checkValue(arr[i][0], arr[j][0]) > 10 || checkValue(arr[i][1], arr[j][1]) > 10) {
-					continue;
-				}
-				else {
-					int minus = checkValue(arr[i][0], arr[j][0]) * checkValue(arr[i][1], arr[j][1]);
-					totalWidth -= checkValue(arr[i][0], arr[j][0]) * checkValue(arr[i][1], arr[j][1]);
-				}				
-			}
-		}
-	
-		return totalWidth;
-	}
-	
-	public static int checkValue(int m, int n) {
-		int value = m - n;
-		if (value < 0) {
-			return value * -1;
-		}
-		else {
-			return value;
-		}
-	}*/
 
