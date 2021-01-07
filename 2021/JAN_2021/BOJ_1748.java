@@ -32,7 +32,3 @@ public class BOJ_1748 {
         return ans;
     }
 }
-
-
-
-해설은 [여기](https://blog.naver.com/o____ri/222199582486)에 작성하였습니다. 😋
