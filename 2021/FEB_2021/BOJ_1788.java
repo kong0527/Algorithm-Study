@@ -30,15 +30,11 @@ public class Main {
             dp[i] = (dp[i-1] + dp[i-2]) % 1000000000;
         }
 
-        if (num > 0) {
-            System.out.println(1);
-        }
-
-        else if (num < 0 && tmp % 2 == 0) {
+        if (num < 0 && tmp % 2 == 0) {
             System.out.println(-1);
         }
 
-        else if (num < 0) {
+        else {
             System.out.println(1);
         }
 
