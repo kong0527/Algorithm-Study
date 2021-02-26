@@ -9,183 +9,215 @@
 
 <br/>
 
-#### [BFS/DFS]
-
-* 백준 알고리즘 [2178](https://www.acmicpc.net/problem/2178) / 풀이 ([BFS](https://blog.naver.com/o____ri/222034510558))
-* 백준 알고리즘 [2667](https://www.acmicpc.net/problem/2667) / 풀이 ([DFS](https://blog.naver.com/o____ri/222036434242)/[BFS](https://blog.naver.com/o____ri/222036402473))
-* 백준 알고리즘 [10026](https://www.acmicpc.net/problem/10026) / 풀이 ([DFS](https://blog.naver.com/o____ri/222044643464)/[BFS](https://blog.naver.com/o____ri/222043485044))
-* 백준 알고리즘 [1697](https://www.acmicpc.net/problem/1697) / 풀이 ([BFS](https://blog.naver.com/o____ri/222054456658))
-* 백준 알고리즘 [5014](https://www.acmicpc.net/problem/5014) / 풀이 ([BFS](https://blog.naver.com/o____ri/222061034885))
-* 백준 알고리즘 [7562](https://www.acmicpc.net/problem/7562) / 풀이 ([BFS](https://blog.naver.com/o____ri/222069933327))
-* 백준 알고리즘 [2583](https://www.acmicpc.net/problem/2583) / 풀이 ([DFS](https://blog.naver.com/o____ri/222072925369)/[BFS](https://blog.naver.com/o____ri/222072947774))
-* 백준 알고리즘 [1260](https://www.acmicpc.net/problem/1260) / [풀이](https://blog.naver.com/o____ri/222198531430)
-* 백준 알고리즘 [1012](https://www.acmicpc.net/problem/1012) / 풀이 ([DFS](https://blog.naver.com/o____ri/222222913006)/[BFS](https://blog.naver.com/o____ri/222221827336))
-* 프로그래머스 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) / 풀이 ([DFS](https://blog.naver.com/o____ri/222252538812))
-* 백준 알고리즘 [2606](https://www.acmicpc.net/problem/2606) / 풀이 ([DFS](https://blog.naver.com/o____ri/222252941645))
-
-<br/>
-
-#### [수학]
-
-* 백준 알고리즘 [2581](https://www.acmicpc.net/problem/2581) / [풀이](https://blog.naver.com/o____ri/221523681382)
-* 백준 알고리즘 [2292](https://www.acmicpc.net/problem/2292) / [풀이](https://blog.naver.com/o____ri/221523685640)
-* 백준 알고리즘 [1193](https://www.acmicpc.net/problem/1193) / [풀이](https://blog.naver.com/o____ri/221526142204)
-* 백준 알고리즘 [10250](https://www.acmicpc.net/problem/10250) / [풀이](https://blog.naver.com/o____ri/221533004094)
-* 백준 알고리즘 [15953](https://www.acmicpc.net/problem/15953) / [풀이](https://blog.naver.com/o____ri/222078662422)
-* 백준 알고리즘 [1476](https://www.acmicpc.net/problem/1476) / [풀이](https://blog.naver.com/o____ri/222160505149)
-* 백준 알고리즘 [1094](https://www.acmicpc.net/problem/1094) / [풀이](https://blog.naver.com/o____ri/222170244997)
-* 백준 알고리즘 [1049](https://www.acmicpc.net/problem/1049) / [풀이](https://blog.naver.com/o____ri/222188026297)
-* 백준 알고리즘 [1292](https://www.acmicpc.net/problem/1292) / [풀이](https://blog.naver.com/o____ri/222192651199)
-* 백준 알고리즘 [14916](https://www.acmicpc.net/problem/14916) / [풀이](https://blog.naver.com/o____ri/222204008370)
+<details><summary>[BFS/DFS]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2178">2178</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222034510558">BFS</a>)</li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2667">2667</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222036434242">DFS</a>/<a href="https://blog.naver.com/o____ri/222036402473">BFS</a>)</li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10026">10026</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222044643464">DFS</a>/<a href="https://blog.naver.com/o____ri/222043485044">BFS</a>)</li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1697">1697</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222054456658">BFS</a>)</li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/5014">5014</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222061034885">BFS</a>)</li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/7562">7562</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222069933327">BFS</a>)</li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2583">2583</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222072925369">DFS</a>/<a href="https://blog.naver.com/o____ri/222072947774">BFS</a>)</li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1260">1260</a> / <a href="https://blog.naver.com/o____ri/222198531430">풀이</a> </li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1012">1012</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222222913006">DFS</a>/<a href="https://blog.naver.com/o____ri/222221827336">BFS</a>)</li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟넘버</a> / 풀이 <a href="https://blog.naver.com/o____ri/222252538812">BFS</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2606">2606</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222252941645">DFS</a>)</li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/13565">13565</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222253829587">DFS</a>)</li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43163">단어 변환</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222254943763">DFS</a>)</li>
+    </ul>
+</details>
 
 <br/>
 
-#### [그리디 알고리즘]
-
-* 백준 알고리즘 [11399](https://www.acmicpc.net/problem/11399) / [풀이](https://blog.naver.com/o____ri/222030845750)
-* 백준 알고리즘 [1092](https://www.acmicpc.net/problem/1092) / [풀이](https://blog.naver.com/o____ri/222045675360)
-* 백준 알고리즘 [2217](https://www.acmicpc.net/problem/2217) / [풀이](https://blog.naver.com/o____ri/222048257888)
-* 백준 알고리즘 [11047](https://www.acmicpc.net/problem/11047) / [풀이](https://blog.naver.com/o____ri/222053342336)
-* 백준 알고리즘 [5585](https://www.acmicpc.net/problem/5585) / [풀이](https://blog.naver.com/o____ri/222057779379)
-* 백준 알고리즘 [1541](https://www.acmicpc.net/problem/1541) / [풀이](https://blog.naver.com/o____ri/222075659680)
-* 백준 알고리즘 [2839](https://www.acmicpc.net/problem/2839) / [풀이](https://blog.naver.com/o____ri/222128489856)
-* 백준 알고리즘 [1758](https://www.acmicpc.net/problem/1758) / [풀이](https://blog.naver.com/o____ri/222204153858)
-* 프로그래머스 [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) / [풀이](https://blog.naver.com/o____ri/222219375597)
-
-<br/>
-
-#### [다이나믹 프로그래밍]
-
-* 백준 알고리즘 [1003](https://www.acmicpc.net/problem/1003) / [풀이](https://blog.naver.com/o____ri/221534133448)
-* 백준 알고리즘 [1149](https://www.acmicpc.net/problem/1149) / [풀이](https://blog.naver.com/o____ri/221564134015)
-* 백준 알고리즘 [9461](https://www.acmicpc.net/problem/9461) / [풀이](https://blog.naver.com/o____ri/221608361378)
-* 백준 알고리즘 [1463](https://www.acmicpc.net/problem/1463) / [풀이](https://blog.naver.com/o____ri/222024004714)
-* 백준 알고리즘 [2579](https://www.acmicpc.net/problem/2579) / [풀이](https://blog.naver.com/o____ri/222026092272)
-* 백준 알고리즘 [1904](https://www.acmicpc.net/problem/1904) / [풀이](https://blog.naver.com/o____ri/222026108703)
-* 백준 알고리즘 [1932](https://www.acmicpc.net/problem/1932) / [풀이](https://blog.naver.com/o____ri/222027143573)
-* 백준 알고리즘 [10844](https://www.acmicpc.net/problem/10844) / [풀이](https://blog.naver.com/o____ri/222034095127)
-* 백준 알고리즘 [11726](https://www.acmicpc.net/problem/11726) / [풀이](https://blog.naver.com/o____ri/222045439253)
-* 백준 알고리즘 [11727](https://www.acmicpc.net/problem/11727) / [풀이](https://blog.naver.com/o____ri/222046745304)
-* 백준 알고리즘 [2156](https://www.acmicpc.net/problem/2156) / [풀이](https://blog.naver.com/o____ri/222048372957)
-* 백준 알고리즘 [1912](https://www.acmicpc.net/problem/1912) / [풀이](https://blog.naver.com/o____ri/222048434968)
-* 백준 알고리즘 [9095](https://www.acmicpc.net/problem/9095) / [풀이](https://blog.naver.com/o____ri/222048976462)
-* 백준 알고리즘 [2193](https://www.acmicpc.net/problem/2193) / [풀이](https://blog.naver.com/o____ri/222049001430)
-* 백준 알고리즘 [9465](https://www.acmicpc.net/problem/9465) / [풀이](https://blog.naver.com/o____ri/222050289847)
-* 백준 알고리즘 [11722](https://www.acmicpc.net/problem/11722) / [풀이](https://blog.naver.com/o____ri/222051131749)
-* 백준 알고리즘 [11052](https://www.acmicpc.net/problem/11052) / [풀이](https://blog.naver.com/o____ri/222051308607)
-* 백준 알고리즘 [15988](https://www.acmicpc.net/problem/15988) / [풀이](https://blog.naver.com/o____ri/222052351745)
-* 백준 알고리즘 [16194](https://www.acmicpc.net/problem/16194) / [풀이](https://blog.naver.com/o____ri/222052947491)
-* 백준 알고리즘 [11053](https://www.acmicpc.net/problem/11053) / [풀이](https://blog.naver.com/o____ri/222057769122)
-* 백준 알고리즘 [11057](https://www.acmicpc.net/problem/11057) / [풀이](https://blog.naver.com/o____ri/222073121572)
-* 백준 알고리즘 [1699](https://www.acmicpc.net/problem/1699) / [풀이](https://blog.naver.com/o____ri/222162644891)
-* 프로그래머스 [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) / [풀이](https://blog.naver.com/o____ri/222224492974)
-* 백준 알고리즘 [2293](https://www.acmicpc.net/problem/2293) / [풀이](https://blog.naver.com/o____ri/222237889314)
-* 프로그래머스 [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) / [풀이](https://blog.naver.com/o____ri/222246926236)
-* 프로그래머스 [2xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900) / [풀이](https://blog.naver.com/o____ri/222250221619)
-* 백준 알고리즘 [1788](https://www.acmicpc.net/problem/1788) / [풀이](https://blog.naver.com/o____ri/222250527309)
+<details><summary>[수학]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2581">2581</a> / <a href="https://blog.naver.com/o____ri/221523681382">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2292">2292</a> / <a href="https://blog.naver.com/o____ri/221523685640">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1193">1193</a> / <a href="https://blog.naver.com/o____ri/221526142204">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10250">10250</a> / <a href="https://blog.naver.com/o____ri/221533004094">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15953">15953</a> / <a href="https://blog.naver.com/o____ri/222078662422">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1476">1476</a> / <a href="https://blog.naver.com/o____ri/222160505149">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1094">1094</a> / <a href="https://blog.naver.com/o____ri/222170244997">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1049">1049</a> / <a href="https://blog.naver.com/o____ri/222188026297">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1292">1292</a> / <a href="https://blog.naver.com/o____ri/222192651199">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/14916">14916</a> / <a href="https://blog.naver.com/o____ri/222204008370">풀이</a></li>
+    </ul>
+</details>
 
 <br/>
 
-#### [큐]
-
-* 백준 알고리즘 [1966](https://www.acmicpc.net/problem/1966) / [풀이](https://blog.naver.com/o____ri/222165671657)
-* 프로그래머스 [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) / [풀이](https://blog.naver.com/o____ri/222246679489)
-
-<br/>
-
-#### [스택]
-
-* 백준 알고리즘 [10828](https://www.acmicpc.net/problem/10828) / [풀이](https://blog.naver.com/o____ri/221523682444)
-* 백준 알고리즘 [10773](https://www.acmicpc.net/problem/10773) / [풀이](https://blog.naver.com/o____ri/222096181750)
-
-<br/>
-
-#### [구현]
-
-* 백준 알고리즘 [1475](https://www.acmicpc.net/problem/1475) / [풀이](https://blog.naver.com/o____ri/222097323505)
-* 백준 알고리즘 [1138](https://www.acmicpc.net/problem/1138) / [풀이](https://blog.naver.com/o____ri/222101243460)
-* 백준 알고리즘 [17413](https://www.acmicpc.net/problem/17413) / [풀이](https://blog.naver.com/o____ri/222104608236)
-* 백준 알고리즘 [2563](https://www.acmicpc.net/problem/2563) / [풀이](https://blog.naver.com/o____ri/222167990843)
-* 백준 알고리즘 [1748](https://www.acmicpc.net/problem/1748) / [풀이](https://blog.naver.com/o____ri/222199582486)
-* 백준 알고리즘 [2108](https://www.acmicpc.net/problem/2108) / [풀이](https://blog.naver.com/o____ri/222202295832)
-* 프로그래머스 [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) / [풀이](https://blog.naver.com/o____ri/222213775284)
-* 프로그래머스 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) / [풀이](https://blog.naver.com/o____ri/222215197403)
+<details><summary>[그리디 알고리즘]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11399">11399</a> / <a href="https://blog.naver.com/o____ri/222030845750">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1092">1092</a> / <a href="https://blog.naver.com/o____ri/222045675360">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2217">2217</a> / <a href="https://blog.naver.com/o____ri/222048257888">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11047">11047</a> / <a href="https://blog.naver.com/o____ri/222053342336">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/5585">5585</a> / <a href="https://blog.naver.com/o____ri/222057779379">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1541">1541</a> / <a href="https://blog.naver.com/o____ri/222075659680">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2839">2839</a> / <a href="https://blog.naver.com/o____ri/222128489856">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1758">1758</a> / <a href="https://blog.naver.com/o____ri/222204153858">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42883">큰 수 만들기</a> / <a href="https://blog.naver.com/o____ri/222219375597">풀이</a></li>
+    </ul>
+</details>
 
 <br/>
 
-#### [브루트포스]
-
-* 백준 알고리즘 [2309](https://www.acmicpc.net/problem/2309) / [풀이](https://blog.naver.com/o____ri/222062534254)
-* 백준 알고리즘 [1065](https://www.acmicpc.net/problem/1065) / [풀이](https://blog.naver.com/o____ri/222067227901)
-* 백준 알고리즘 [2798](https://www.acmicpc.net/problem/2798) / [풀이](https://blog.naver.com/o____ri/222088435926)
-* 백준 알고리즘 [7568](https://www.acmicpc.net/problem/7568) / [풀이](https://blog.naver.com/o____ri/222161428175)
-* 백준 알고리즘 [1436](https://www.acmicpc.net/problem/1436) / [풀이](https://blog.naver.com/o____ri/222174525428)
-* 백준 알고리즘 [1543](https://www.acmicpc.net/problem/1543) / [풀이](https://blog.naver.com/o____ri/222183125261)
-* 백준 알고리즘 [1051](https://www.acmicpc.net/problem/1051) / [풀이](https://blog.naver.com/o____ri/222193913938)
-* 프로그래머스 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) / [풀이](https://blog.naver.com/o____ri/222223317120)
-* 프로그래머스 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) / [풀이](https://blog.naver.com/o____ri/222240537599)
-
-<br/>
-
-#### [이분 탐색]
-
-* 백준 알고리즘 [1789](https://www.acmicpc.net/problem/1789) / [풀이](https://blog.naver.com/o____ri/222173203052)
-* 백준 알고리즘 [1920](https://www.acmicpc.net/problem/1920) / [풀이](https://blog.naver.com/o____ri/222194842185)
-* 백준 알고리즘 [10825](https://www.acmicpc.net/problem/10815) / [풀이](https://blog.naver.com/o____ri/222206512917)
-* 프로그래머스 [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) / [풀이](https://blog.naver.com/o____ri/222252700027)
-
-<br/>
-
-#### [해시]
-
-* 백준 알고리즘 [1302](https://www.acmicpc.net/problem/1302) / [풀이](https://blog.naver.com/o____ri/222180819283)
-* 프로그래머스 [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) / [풀이](https://blog.naver.com/o____ri/222237925077)
-* 프로그래머스 [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) / [풀이](https://blog.naver.com/o____ri/222241547759)
-* 프로그래머스 [위장](https://programmers.co.kr/learn/courses/30/lessons/42578#) / [풀이](https://blog.naver.com/o____ri/222244702176)
-* 프로그래머스 [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) / [풀이](https://blog.naver.com/o____ri/222245560809)
-
-<br/>
-
-#### [정렬]
-
-* 백준 알고리즘 [1026](https://www.acmicpc.net/problem/1026) / [풀이](https://blog.naver.com/o____ri/222179083129)
-* 백준 알고리즘 [11652](https://www.acmicpc.net/problem/11652) / [풀이](https://blog.naver.com/o____ri/222196330578)
-* 프로그래머스 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=java) / [풀이](https://blog.naver.com/o____ri/222220755723)
-* 백준 알고리즘 [1431](https://www.acmicpc.net/problem/1431) / [풀이](https://blog.naver.com/o____ri/222233202051)
+<details><summary>[다이나믹 프로그래밍]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1003">1003</a> / <a href="https://blog.naver.com/o____ri/221534133448">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1149">1149</a> / <a href="https://blog.naver.com/o____ri/221564134015">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/9461">9461</a> / <a href="https://blog.naver.com/o____ri/221608361378">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1463">1463</a> / <a href="https://blog.naver.com/o____ri/222024004714">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2579">2579</a> / <a href="https://blog.naver.com/o____ri/222026092272">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1904">1904</a> / <a href="https://blog.naver.com/o____ri/222026108703">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1932">1932</a> / <a href="https://blog.naver.com/o____ri/222027143573">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10844">10844</a> / <a href="https://blog.naver.com/o____ri/222034095127">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11726">11726</a> / <a href="https://blog.naver.com/o____ri/222045439253">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11727">11727</a> / <a href="https://blog.naver.com/o____ri/222046745304">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2156">2156</a> / <a href="https://blog.naver.com/o____ri/222048372957">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1912">1912</a> / <a href="https://blog.naver.com/o____ri/222048434968">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/9095">9095</a> / <a href="https://blog.naver.com/o____ri/222048976462">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2193">2193</a> / <a href="https://blog.naver.com/o____ri/222049001430">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/9465">9465</a> / <a href="https://blog.naver.com/o____ri/222050289847">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11722">11722</a> / <a href="https://blog.naver.com/o____ri/222051131749">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11052">11052</a> / <a href="https://blog.naver.com/o____ri/222051308607">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15988">15988</a> / <a href="https://blog.naver.com/o____ri/222052351745">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/16194">16194</a> / <a href="https://blog.naver.com/o____ri/222052947491">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11053">11053</a> / <a href="https://blog.naver.com/o____ri/222057769122">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11057">11057</a> / <a href="https://blog.naver.com/o____ri/222073121572">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1699">1699</a> / <a href="https://blog.naver.com/o____ri/222162644891">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12945">피보나치 수</a> / <a href="https://blog.naver.com/o____ri/222224492974">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2293">2293</a> / <a href="https://blog.naver.com/o____ri/222237889314">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42898">등굣길</a> / <a href="https://blog.naver.com/o____ri/222246926236">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12900">2xn 타일링</a> / <a href="https://blog.naver.com/o____ri/222250221619">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1788">1788</a> / <a href="https://blog.naver.com/o____ri/222250527309">풀이</a></li>
+    </ul>
+</details>
 
 <br/>
 
-#### [백트래킹]
-
-* 백준 알고리즘 [10773](https://www.acmicpc.net/problem/10773) / [풀이](https://blog.naver.com/o____ri/222095340672)
-
-* 백준 알고리즘 [15649](https://www.acmicpc.net/problem/15649) / [풀이](https://blog.naver.com/o____ri/222076549379)
-* 백준 알고리즘 [15650](https://www.acmicpc.net/problem/15650) / [풀이](https://blog.naver.com/o____ri/222097974258)
-* 백준 알고리즘 [15651](https://www.acmicpc.net/problem/15651) / [풀이](https://blog.naver.com/o____ri/222099181818)
-* 백준 알고리즘 [15652](https://www.acmicpc.net/problem/15652) / [풀이](https://blog.naver.com/o____ri/222099184657)
-* 프로그래머스 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) / [풀이](https://blog.naver.com/o____ri/222239657211)
+<details><summary>[큐]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1966">1966</a> / <a href="https://blog.naver.com/o____ri/222165671657">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">1149</a> / <a href="https://blog.naver.com/o____ri/222246679489">풀이</a></li>
+    </ul>
+</details>
 
 <br/>
 
-#### [트리]
-
-* 백준 알고리즘 [1991](https://www.acmicpc.net/problem/1991) / [풀이](https://blog.naver.com/o____ri/222203105395)
-* 백준 알고리즘 [1269](https://www.acmicpc.net/problem/1269) / [풀이](https://blog.naver.com/o____ri/222229457654)
-
-<br/>
-
-#### [문자열]
-
-* 백준 알고리즘 [1316](https://www.acmicpc.net/problem/1316) / [풀이](https://blog.naver.com/o____ri/222094144937)
-* 백준 알고리즘 [2941](https://www.acmicpc.net/problem/2941) / [풀이](https://blog.naver.com/o____ri/222105934751)
-* 백준 알고리즘 [1152](https://www.acmicpc.net/problem/1152) / [풀이](https://blog.naver.com/o____ri/222127335561)
-* 백준 알고리즘 [1764](https://www.acmicpc.net/problem/1764) / [풀이](https://blog.naver.com/o____ri/222132817547)
+<details><summary>[스택]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10828">10828</a> / <a href="https://blog.naver.com/o____ri/221523682444">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10773">10773</a> / <a href="https://blog.naver.com/o____ri/222096181750">풀이</a></li>
+    </ul>
+</details>
 
 <br/>
 
-#### [에라토스테네스의 체]
+<details><summary>[구현]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1475">1475</a> / <a href="https://blog.naver.com/o____ri/222097323505">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1138">1138</a> / <a href="https://blog.naver.com/o____ri/222101243460">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/17413">17413</a> / <a href="https://blog.naver.com/o____ri/222104608236">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2563">2563</a> / <a href="https://blog.naver.com/o____ri/222167990843">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1748">1748</a> / <a href="https://blog.naver.com/o____ri/222199582486">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2108">2108</a> / <a href="https://blog.naver.com/o____ri/222202295832">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12949">행렬의 곱셈</a> / <a href="https://blog.naver.com/o____ri/222213775284">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42584">주식가격</a> / <a href="https://blog.naver.com/o____ri/222215197403">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a> / <a href="https://blog.naver.com/o____ri/222256113837">풀이</a></li>
+    </ul>
+</details>
 
-* 백준 알고리즘 [1978](https://www.acmicpc.net/problem/1978) / [풀이](https://blog.naver.com/o____ri/221523680199)
-* 백준 알고리즘 [1929](https://www.acmicpc.net/problem/1929) / [풀이](https://blog.naver.com/o____ri/222094794211)
+<br/>
+
+<details><summary>[브루트포스]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2309">2309</a> / <a href="https://blog.naver.com/o____ri/222062534254">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1065">1065</a> / <a href="https://blog.naver.com/o____ri/222067227901">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2798">2798</a> / <a href="https://blog.naver.com/o____ri/222088435926">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/7568">7568</a> / <a href="https://blog.naver.com/o____ri/222161428175">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1436">1436</a> / <a href="https://blog.naver.com/o____ri/222174525428">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1543">1543</a> / <a href="https://blog.naver.com/o____ri/222183125261">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1543">1051</a> / <a href="https://blog.naver.com/o____ri/222193913938">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기</a> / <a href="https://blog.naver.com/o____ri/222223317120">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42842">카펫</a> / <a href="https://blog.naver.com/o____ri/222240537599">풀이</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[이분 탐색]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1789">1789</a> / <a href="https://blog.naver.com/o____ri/222173203052">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1920">1920</a> / <a href="https://blog.naver.com/o____ri/222194842185">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10825">10825</a> / <a href="https://blog.naver.com/o____ri/222206512917">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43238">입국심사</a> / <a href="https://blog.naver.com/o____ri/222252700027">풀이</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[해시]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1302">1302</a> / <a href="https://blog.naver.com/o____ri/222180819283">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a> / <a href="https://blog.naver.com/o____ri/222237925077">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a> / <a href="https://blog.naver.com/o____ri/222241547759">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42578">위장</a> / <a href="https://blog.naver.com/o____ri/222244702176">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42579">베스트 앨범</a> / <a href="https://blog.naver.com/o____ri/222245560809">풀이</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[정렬]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1026">1026</a> / <a href="https://blog.naver.com/o____ri/222179083129">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/11652">11652</a> / <a href="https://blog.naver.com/o____ri/222196330578">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a> / <a href="https://blog.naver.com/o____ri/222220755723">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1431">1431</a> / <a href="https://blog.naver.com/o____ri/222233202051">풀이</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[백트래킹]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/10773">10773</a> / <a href="https://blog.naver.com/o____ri/222095340672">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15649">15649</a> / <a href="https://blog.naver.com/o____ri/222076549379">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15650">15650</a> / <a href="https://blog.naver.com/o____ri/222097974258">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15651">15651</a> / <a href="https://blog.naver.com/o____ri/222099181818">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15652">15652</a> / <a href="https://blog.naver.com/o____ri/222099184657">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a> / <a href="https://blog.naver.com/o____ri/222239657211">풀이</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[트리]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1991">1991</a> / <a href="https://blog.naver.com/o____ri/222203105395">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1269">1269</a> / <a href="https://blog.naver.com/o____ri/222229457654">풀이</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[문자열]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1316">1316</a> / <a href="https://blog.naver.com/o____ri/222094144937">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2941">2941</a> / <a href="https://blog.naver.com/o____ri/222105934751">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1152">1152</a> / <a href="https://blog.naver.com/o____ri/222127335561">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1764">1764</a> / <a href="https://blog.naver.com/o____ri/222132817547">풀이</a></li>
+    </ul>
+</details>
+
+<br/>
+
+<details><summary>[에라토스테네스의 체]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1978">1978</a> / <a href="https://blog.naver.com/o____ri/221523680199">풀이</a></li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1929">1929</a> / <a href="https://blog.naver.com/o____ri/222094794211">풀이</a></li>
+    </ul>
+</details>
 
 <br/>
