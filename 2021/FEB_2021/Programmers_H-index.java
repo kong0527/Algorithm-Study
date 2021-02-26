@@ -4,12 +4,12 @@ import java.util.Collections;
 class Solution {
     public int solution(int[] citations) {
         int answer = 0;
-        // 배열을 내림차순으로 정렬하기 위해 citations 배열을 Integer 형태로 바꾸는 과
+        // 배열을 내림차순으로 정렬하기 위해 citations 배열을 Integer 형태로 바꾸는 과정
         Integer arr[] = Arrays.stream(citations).boxed().toArray(Integer[]::new);;
         Arrays.sort(arr, Collections.reverseOrder());
 
         for (int i = 0; i < citations.length; i++) {
-            // 인용된 횟수가 i보다 작아지는 부분 찾
+            // 인용된 횟수가 i보다 작아지는 부분 찾기
             if (arr[i] <= i) {
                 answer = i;
                 break;
