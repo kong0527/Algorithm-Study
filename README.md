@@ -127,6 +127,7 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12949">행렬의 곱셈</a> / <a href="https://blog.naver.com/o____ri/222213775284">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/42584">주식가격</a> / <a href="https://blog.naver.com/o____ri/222215197403">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a> / <a href="https://blog.naver.com/o____ri/222256113837">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</a> / <a href="https://blog.naver.com/o____ri/222260722203">풀이</a></li>
     </ul>
 </details>
 
