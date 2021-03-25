@@ -129,8 +129,12 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</a> / <a href="https://blog.naver.com/o____ri/222260722203">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/49993">스킬트리</a> / <a href="https://blog.naver.com/o____ri/222268482390">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12924">숫자의 표현</a> / <a href="https://blog.naver.com/o____ri/222271998705">풀이</a></li>
+      <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/14503">14503</a> / <a href="https://blog.naver.com/o____ri/222279768744">풀이</a></li>
+      <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15686">15686</a> / <a href="https://blog.naver.com/o____ri/222280899501">풀이</a></li>
+      <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/72411">메뉴 리뉴얼</a> / <a href="https://blog.naver.com/o____ri/222285299235">풀이</a></li>
     </ul>
 </details>
+
 
 <br/>
 
@@ -192,8 +196,10 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15651">15651</a> / <a href="https://blog.naver.com/o____ri/222099181818">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15652">15652</a> / <a href="https://blog.naver.com/o____ri/222099184657">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1182">1182</a> / <a href="https://blog.naver.com/o____ri/222265433372">풀이</a></li>
+      <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2023">2023</a> / <a href="https://blog.naver.com/o____ri/222284036091">풀이</a></li>
 </ul>
 </details>
+
 <br/>
 
 <details><summary>[힙]</summary>
@@ -233,4 +239,13 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1929">1929</a> / <a href="https://blog.naver.com/o____ri/222094794211">풀이</a></li>
     </ul>
 </details>
+
+<br/>
+
+<details><summary>[덱]</summary>
+    <ul>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/5430">5430</a> / <a href="https://blog.naver.com/o____ri/222281193030">풀이</a></li>
+    </ul>
+</details>
+
 <br/>
