@@ -143,6 +143,7 @@
       <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/14503">14503</a> / <a href="https://blog.naver.com/o____ri/222279768744">풀이</a></li>
       <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/15686">15686</a> / <a href="https://blog.naver.com/o____ri/222280899501">풀이</a></li>
       <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/72411">메뉴 리뉴얼</a> / <a href="https://blog.naver.com/o____ri/222285299235">풀이</a></li>
+     <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12981">영어 끝말잇기</a> / <a href="https://blog.naver.com/o____ri/222362730529">풀이</a></li>
     </ul>
 </details>
 <br/>
