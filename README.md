@@ -99,6 +99,7 @@
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a> / <a href="https://blog.naver.com/o____ri/222258765810">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1309">1309</a> / <a href="https://blog.naver.com/o____ri/222304324642">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/12865">12865</a> / <a href="https://blog.naver.com/o____ri/222305317501">풀이</a></li>
+     <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12913">땅따먹기</a> / <a href="https://blog.naver.com/o____ri/222399200583">풀이</a></li>
     </ul>
 </details>
 
