@@ -18,7 +18,7 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/5014">5014</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222061034885">BFS</a>)</li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/7562">7562</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222069933327">BFS</a>)</li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2583">2583</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222072925369">DFS</a>/<a href="https://blog.naver.com/o____ri/222072947774">BFS</a>)</li>
-        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1260">1260</a> / <a href="https://blog.naver.com/o____ri/222198531430">풀이</a> </li>
+        <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1260">1260</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222198531430">DFS+BFS</a)> </li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1012">1012</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222222913006">DFS</a>/<a href="https://blog.naver.com/o____ri/222221827336">BFS</a>)</li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟넘버</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222252538812">BFS</a>)</li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/2606">2606</a> / 풀이 (<a href="https://blog.naver.com/o____ri/222252941645">DFS</a>)</li>
