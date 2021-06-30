@@ -45,7 +45,10 @@
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/1292">1292</a> / <a href="https://blog.naver.com/o____ri/222192651199">풀이</a></li>
         <li>백준 알고리즘 <a href="https://www.acmicpc.net/problem/14916">14916</a> / <a href="https://blog.naver.com/o____ri/222204008370">풀이</a></li>
         <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/62048">멀쩡한 사각형</a> / <a href="https://blog.naver.com/o____ri/222267391819">풀이</a></li>
-        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소공배수</a> / <a href="https://blog.naver.com/o____ri/222286437523">풀이</a></li>
+        <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소공배수</a> / <a href="https://blog.naver.com/o____ri/222286437523">풀이</a>
+     </li>
+     <li>프로그래머스 <a href="https://programmers.co.kr/learn/courses/30/lessons/12901">2016년</a> / <a href="https://blog.naver.com/o____ri/222411850854">풀이</a>
+     </li>
     </ul>
 </details>
 
